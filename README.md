@@ -67,9 +67,9 @@
   <a href="https://www.mysql.com/" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/postgresql/postgresql-original.svg" alt="MySQL" width="36px">
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="blank">
+  <!--<a href="https://www.microsoft.com/en-us/sql-server" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="36px">
-  </a>
+  </a>-->
 </p>
 
 ---
