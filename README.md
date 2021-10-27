@@ -1,4 +1,4 @@
-### Hello! My name is Hayden Moritz
+### Hello, my name is Hayden Moritz 👋
 I'm a Software Engineer at [Ramsey Solutions](https://www.ramseyinhouse.com/), specializing in backend development.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MoritzHayden&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
