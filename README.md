@@ -9,10 +9,16 @@
 ### Connect with me:
 <p align="left">	<p align="left">
   <a href="mailto:moritz.hayden@gmail.com" target="blank">
-  <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/master/badges/social/gmail-1.svg" alt="Email me at moritz.hayden@gmail.com" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/moritzhayden/profile-badges/master/badges/social/gmail-1.svg" alt="Email me at moritz.hayden@gmail.com" style="vertical-align:top margin:6px 4px">
     </a>
   <a href="https://linkedin.com/in/moritzhayden" target="blank">
-    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/master/badges/social/linkedin.svg" alt="Hayden Moritz on LinkedIn" style="vertical-align:top margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/moritzhayden/profile-badges/master/badges/social/linkedin.svg" alt="Hayden Moritz on LinkedIn" style="vertical-align:top margin:6px 4px">
+  </a>
+  <a href="https://steamcommunity.com/id/M0dernM4verick/" target="blank">
+    <img src="https://raw.githubusercontent.com/moritzhayden/profile-badges/master/badges/social/steam.svg" alt="M0dernM4verick on Steam" style="vertical-align:top margin:6px 4px">
+  </a>
+  <a href="https://ritzware.solutions/" target="blank">
+    <img src="https://raw.githubusercontent.com/MoritzHayden/profile-badges/a541fbe1a2ebf633193df00fb1e56b304c007424/badges/dev/%20misc/%20web.svg" alt="Ritzware Solutions LLC" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
 
@@ -80,5 +86,4 @@
 
 
 <!--Config-->
-[website]: https://ritzware.solutions/
 [book]: https://www.amazon.com/Road-Back-You-Enneagram-Self-Discovery/dp/0830846190
