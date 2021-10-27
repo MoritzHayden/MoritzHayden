@@ -1,17 +1,12 @@
-### Hi there 👋 my name is Hayden Moritz
-I'm a Software Engineer at [Ramsey Solutions](https://www.ramseyinhouse.com/)
+### Hello! My name is Hayden Moritz
+I'm a Software Engineer at [Ramsey Solutions](https://www.ramseyinhouse.com/), specializing in backend development.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MoritzHayden&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoritzHayden&layout=compact&theme=cobalt&hide=coffeescript)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MoritzHayden&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoritzHayden&layout=compact&theme=chartreuse-dark&hide=coffeescript)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
-**MoritzHayden/MoritzHayden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
