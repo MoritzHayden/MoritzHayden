@@ -1,5 +1,10 @@
-### Hello, my name is Hayden Moritz 👋
-I'm a Software Engineer at [Ramsey Solutions](https://www.ramseyinhouse.com/), specializing in backend development.
+## Hello, my name is Hayden Moritz 👋
+
+### I'm a Software Engineer at [Ramsey Solutions](https://www.ramseyinhouse.com/), specializing in backend development.
+
+- 🌱 I’m currently learning Kotlin
+- 📚 I'm currently reading [The Road Back to You][book] by Ian Morgan Cron and Suzanne Stabile
+- 💬 Ask me about video games, hiking, or encryption standards
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MoritzHayden&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
