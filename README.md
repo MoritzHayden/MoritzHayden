@@ -79,7 +79,7 @@
   
   <br>
   
-  [![Hayden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoritzHayden&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoritzHayden&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoritzHayden&layout=compact&theme=chartreuse-dark&hide=coffeescript)](https://github.com/anuraghazra/github-readme-stats)
 </details>
