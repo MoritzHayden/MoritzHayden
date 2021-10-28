@@ -17,9 +17,9 @@
   <a href="https://steamcommunity.com/id/M0dernM4verick/" target="blank">
     <img src="https://raw.githubusercontent.com/moritzhayden/profile-badges/master/badges/social/steam.svg" alt="M0dernM4verick on Steam" style="vertical-align:top margin:6px 4px">
   </a>
-  <a href="https://ritzware.solutions/" target="blank">
+  <!--<a href="https://ritzware.solutions/" target="blank">
     <img src="https://raw.githubusercontent.com/MoritzHayden/profile-badges/a541fbe1a2ebf633193df00fb1e56b304c007424/badges/dev/%20misc/%20web.svg" alt="Ritzware Solutions LLC" style="vertical-align:top margin:6px 4px">
-  </a>
+  </a>-->
 </p>
 
 ### Languages, Frameworks, and Tools I Use:
