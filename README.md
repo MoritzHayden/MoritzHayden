@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Kotlin
 - 📚 I'm currently reading [The Road Back to You][book] by Ian Morgan Cron and Suzanne Stabile
-- 💬 Ask me about video games, hiking, or encryption standards
+- 💬 Ask me about video games, hiking, encryption standards, or the Enneagram
 
 ### Connect with me:
 <p align="left">	<p align="left">
