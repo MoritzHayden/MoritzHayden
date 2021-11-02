@@ -2,6 +2,7 @@
 
 ### I'm a Software Engineer at [Ramsey Solutions](https://www.ramseyinhouse.com/), specializing in backend development.
 
+- 🧠 I'm an Enneagram Five
 - 🌱 I’m currently learning Kotlin
 - 📚 I'm currently reading [The Road Back to You][book] by Ian Morgan Cron and Suzanne Stabile
 - 💬 Ask me about video games, hiking, encryption standards, or the Enneagram
