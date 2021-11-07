@@ -18,9 +18,9 @@
   <a href="https://steamcommunity.com/id/M0dernM4verick/" target="blank">
     <img src="https://raw.githubusercontent.com/moritzhayden/profile-badges/master/badges/social/steam.svg" alt="M0dernM4verick on Steam" style="vertical-align:top margin:6px 4px">
   </a>
-  <!--<a href="https://ritzware.solutions/" target="blank">
+  <a href="https://haydenmoritz.com/" target="blank">
     <img src="https://raw.githubusercontent.com/MoritzHayden/profile-badges/a541fbe1a2ebf633193df00fb1e56b304c007424/badges/dev/%20misc/%20web.svg" alt="Ritzware Solutions LLC" style="vertical-align:top margin:6px 4px">
-  </a>-->
+  </a>
 </p>
 
 ### Languages, Frameworks, and Tools I Use:
@@ -68,9 +68,6 @@
   <a href="https://www.mysql.com/" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/postgresql/postgresql-original.svg" alt="MySQL" width="36px">
   </a>
-  <!--<a href="https://www.microsoft.com/en-us/sql-server" target="blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="36px">
-  </a>-->
 </p>
 
 ---
