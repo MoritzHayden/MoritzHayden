@@ -19,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/moritzhayden/profile-badges/master/badges/social/steam.svg" alt="M0dernM4verick on Steam" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="https://haydenmoritz.com/" target="blank">
-    <img src="https://raw.githubusercontent.com/MoritzHayden/profile-badges/a541fbe1a2ebf633193df00fb1e56b304c007424/badges/dev/%20misc/%20web.svg" alt="Ritzware Solutions LLC" style="vertical-align:top margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/MoritzHayden/profile-badges/7a2ac1e0e1ace8abac888ecc42f14058e88c503b/badges/dev/%20misc/%20web.svg" alt="Ritzware Solutions LLC" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
 
