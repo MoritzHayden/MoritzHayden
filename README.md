@@ -4,7 +4,7 @@
 
 - 🧠 I'm an Enneagram Five
 - 🌱 I’m currently learning Kotlin
-- 📚 I'm currently reading [The Road Back to You][book] by Ian Morgan Cron and Suzanne Stabile
+- 📚 I'm currently reading [The Ideal Team Player][book] by Patrick Lencioni
 - 💬 Ask me about video games, hiking, encryption standards, or the Enneagram
 
 ### Connect with me:
@@ -84,4 +84,4 @@
 
 
 <!--Config-->
-[book]: https://www.amazon.com/Road-Back-You-Enneagram-Self-Discovery/dp/0830846190
+[book]: https://www.amazon.com/Ideal-Team-Player-Recognize-Cultivate/dp/1119209595
