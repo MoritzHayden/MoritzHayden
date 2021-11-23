@@ -32,14 +32,14 @@
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-plain.svg" alt="C#" width="36px">
   </a>
+  <a href="https://www.python.org/" target="blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/python/python-original.svg" alt="Python" width="36px">
+  </a>
   <a href="https://www.ruby-lang.org/en/" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/ruby/ruby-original.svg" alt="Ruby" width="36px">
   </a>
   <a href="https://rubyonrails.org/" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/rails/rails-plain-wordmark.svg" alt="Ruby on Rails" width="36px">
-  </a>
-  <a href="https://www.python.org/" target="blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/python/python-original.svg" alt="Python" width="36px">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/html5/html5-original.svg" alt="HTML5" width="36px">
@@ -50,16 +50,10 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg" alt="Javascript" width="36px">
   </a>
-  <a href="https://nodejs.org/" target="blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/nodejs/nodejs-original.svg" alt="Node" width="36px">
-  </a>
   <a href="https://reactjs.org/" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/react/react-original.svg" alt="React" width="36px">
   </a>
-  <a href="https://sass-lang.com/" target="blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/sass/sass-original.svg" alt="SASS" width="36px">
-  </a>
-    <a href="https://github.com/moritzhayden/" target="blank">
+   <a href="https://github.com/moritzhayden/" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/git/git-original.svg" alt="Git" width="36px">
   </a>
   <a href="https://aws.amazon.com/" target="blank">
