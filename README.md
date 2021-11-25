@@ -9,7 +9,7 @@
 
 ### Connect with me:
 <p align="left">	<p align="left">
-  <a href="mailto:moritz.hayden@gmail.com" target="blank">
+  <a href="mailto:me@haydenmoritz.com" target="blank">
   <img src="https://raw.githubusercontent.com/moritzhayden/profile-badges/master/badges/social/gmail-1.svg" alt="Email me at moritz.hayden@gmail.com" style="vertical-align:top margin:6px 4px">
     </a>
   <a href="https://linkedin.com/in/moritzhayden" target="blank">
