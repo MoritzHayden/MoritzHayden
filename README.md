@@ -4,7 +4,7 @@
 
 - 🧠 I'm an Enneagram Five
 - 🌱 I’m currently learning Kotlin
-- 📚 I'm currently reading [The Ideal Team Player][book] by Patrick Lencioni
+- 📚 I'm currently reading [Head First Kotlin][book] by Dawn Griffiths and David Griffiths
 - 💬 Ask me about video games, hiking, encryption standards, hackathons, or the Enneagram
 
 ### Connect with me:
@@ -78,4 +78,4 @@
 
 
 <!--Config-->
-[book]: https://www.amazon.com/Ideal-Team-Player-Recognize-Cultivate/dp/1119209595
+[book]: https://www.amazon.com/Head-First-Kotlin-Brain-Friendly-Guide/dp/1491996692
