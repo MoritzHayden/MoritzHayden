@@ -5,7 +5,7 @@
 - 🧠 I'm an Enneagram Five
 - 🌱 I’m currently learning Kotlin
 - 📚 I'm currently reading [Head First Kotlin][book] by Dawn Griffiths and David Griffiths
-- 💬 Ask me about video games, hiking, encryption standards, hackathons, or the Enneagram
+- 💬 Ask me about video games, hiking, encryption, blockchain, hackathons, or the Enneagram
 
 ### Connect with me:
 <p align="left">	<p align="left">
