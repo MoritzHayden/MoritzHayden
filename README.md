@@ -1,6 +1,6 @@
 ## Hello, my name is Hayden Moritz 👋
 
-### I'm a Software Engineer at [Ramsey Solutions](https://www.ramseyinhouse.com/), specializing in backend development.
+### I'm a Software Engineer at [Ramsey Solutions](https://www.ramseysolutions.com/), specializing in backend development.
 
 - 🧠 I'm an Enneagram 5w4
 - 🌱 I’m currently learning Kotlin
@@ -74,11 +74,9 @@
   
   <br>
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoritzHayden&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoritzHayden&layout=compact&theme=chartreuse-dark&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+  | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoritzHayden&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoritzHayden&layout=compact&theme=chartreuse-dark&hide=html)](https://github.com/anuraghazra/github-readme-stats) |
+| -- | -- |
 </details>
-
 
 <!--Config-->
 [book]: https://www.amazon.com/Head-First-Kotlin-Brain-Friendly-Guide/dp/1491996692
