@@ -9,16 +9,16 @@
 
 ### Connect with me:
 <p align="left">	<p align="left">
-  <a href="mailto:me@haydenmoritz.com" target="blank">
+  <a href="mailto:me@haydenmoritz.com" target="_blank">
   <img src="https://raw.githubusercontent.com/moritzhayden/profile-badges/master/badges/social/gmail-1.svg" alt="Email me at moritz.hayden@gmail.com" style="vertical-align:top margin:6px 4px">
     </a>
-  <a href="https://linkedin.com/in/moritzhayden" target="blank">
+  <a href="https://linkedin.com/in/moritzhayden" target="_blank">
     <img src="https://raw.githubusercontent.com/moritzhayden/profile-badges/master/badges/social/linkedin.svg" alt="Hayden Moritz on LinkedIn" style="vertical-align:top margin:6px 4px">
   </a>
-  <a href="https://steamcommunity.com/id/M0dernM4verick/" target="blank">
+  <a href="https://steamcommunity.com/id/M0dernM4verick/" target="_blank">
     <img src="https://raw.githubusercontent.com/moritzhayden/profile-badges/master/badges/social/steam.svg" alt="M0dernM4verick on Steam" style="vertical-align:top margin:6px 4px">
   </a>
-  <a href="https://devpost.com/MoritzHayden" target="blank">
+  <a href="https://devpost.com/MoritzHayden" target="_blank">
     <img src="https://raw.githubusercontent.com/MoritzHayden/profile-badges/7a2ac1e0e1ace8abac888ecc42f14058e88c503b/badges/dev/%20misc/%20web.svg" alt="Ritzware Solutions LLC" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
@@ -26,43 +26,43 @@
 ### Languages, Frameworks, and Tools I Use:
 
 <p align="left">
-  <a href="https://kotlinlang.org/" target="blank">
+  <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="36px">
   </a>
-  <a href="https://spring.io/" target="blank">
+  <a href="https://spring.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/spring/spring-original.svg" alt="Spring" width="36px">
   </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="blank">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-plain.svg" alt="C#" width="36px">
   </a>
-  <a href="https://www.python.org/" target="blank">
+  <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/python/python-original.svg" alt="Python" width="36px">
   </a>
-  <a href="https://www.ruby-lang.org/en/" target="blank">
+  <a href="https://www.ruby-lang.org/en/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/ruby/ruby-original.svg" alt="Ruby" width="36px">
   </a>
-  <a href="https://rubyonrails.org/" target="blank">
+  <a href="https://rubyonrails.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/rails/rails-plain-wordmark.svg" alt="Ruby on Rails" width="36px">
   </a>
-  <a href="https://reactjs.org/" target="blank">
+  <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/react/react-original.svg" alt="React" width="36px">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/html5/html5-original.svg" alt="HTML5" width="36px">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Archive/CSS3" target="blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Archive/CSS3" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/css3/css3-original.svg" alt="CSS" width="36px">
   </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg" alt="Javascript" width="36px">
   </a>
-   <a href="https://github.com/moritzhayden/" target="blank">
+   <a href="https://github.com/moritzhayden/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/git/git-original.svg" alt="Git" width="36px">
   </a>
-  <a href="https://aws.amazon.com/" target="blank">
+  <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="36px">
   </a>
-  <a href="https://www.mysql.com/" target="blank">
+  <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original.svg" alt="MySQL" width="36px">
   </a>
 </p>
