@@ -35,6 +35,9 @@
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-plain.svg" alt="C#" width="36px">
   </a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dot-net/dot-net-original.svg" alt=".NET" width="36px">
+  </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/python/python-original.svg" alt="Python" width="36px">
   </a>
