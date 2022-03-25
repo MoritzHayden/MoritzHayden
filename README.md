@@ -56,8 +56,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Archive/CSS3" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/css3/css3-original.svg" alt="CSS" width="36px">
   </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg" alt="Javascript" width="36px">
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/868a45582cbb52c4302a28ed5ded0b015a3ffae7/icons/figma/figma-original.svg" alt="Figma" width="36px">
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/jira/jira-original.svg" alt="Jira" width="36px">
