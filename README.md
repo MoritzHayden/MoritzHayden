@@ -79,6 +79,9 @@
   </a>
 </p>
 
+### Want to see more?
+Feel free to take a look at [my resume](https://github.com/MoritzHayden/MoritzHayden/blob/main/Resume.pdf).
+
 ---
 
 <details open>
