@@ -1,6 +1,6 @@
 ## Hello, my name is Hayden Moritz 👋
 
-### I'm a Software Engineer at [Ramsey Solutions][ramseyUrl], specializing in backend development.
+### I'm a Software Engineer at [Ramsey Solutions][ramseyUrl], specializing in full-stack web development.
 
 - 🧠 I'm an Enneagram 5w4
 - 🌱 I’m currently learning Kotlin
