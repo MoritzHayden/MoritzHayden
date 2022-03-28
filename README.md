@@ -15,9 +15,6 @@
   <a href="https://linkedin.com/in/moritzhayden" target="_blank">
     <img src="https://raw.githubusercontent.com/moritzhayden/profile-badges/master/badges/social/linkedin.svg" alt="Hayden Moritz on LinkedIn" style="vertical-align:top margin:6px 4px">
   </a>
-  <a href="https://steamcommunity.com/id/M0dernM4verick/" target="_blank">
-    <img src="https://raw.githubusercontent.com/moritzhayden/profile-badges/master/badges/social/steam.svg" alt="M0dernM4verick on Steam" style="vertical-align:top margin:6px 4px">
-  </a>
   <a href="https://linktr.ee/HaydenMoritz" target="_blank">
     <img src="https://raw.githubusercontent.com/MoritzHayden/profile-badges/7a2ac1e0e1ace8abac888ecc42f14058e88c503b/badges/dev/%20misc/%20web.svg" alt="Hayden Moritz on Linktree" style="vertical-align:top margin:6px 4px">
   </a>
