@@ -22,7 +22,7 @@
 
 ### Languages, Frameworks, and Tools I Use:
 
-<p align="left">
+<div align="left">
   <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="36px">
   </a>
@@ -74,7 +74,7 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original.svg" alt="MySQL" width="36px">
   </a>
-</p>
+</div>
 
 ### Want to see more?
 Feel free to take a look at [my resume](https://github.com/MoritzHayden/MoritzHayden/blob/main/Resume.pdf).
