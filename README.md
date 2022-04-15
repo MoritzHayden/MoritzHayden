@@ -62,7 +62,7 @@
   <a href="https://www.atlassian.com/software/jira" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/jira/jira-original.svg" alt="Jira" width="36px">
   </a>
-  <a href="https://about.gitlab.com/" target="_blank">
+  <a href="https://gitlab.com/MoritzHayden" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/946857079b5357c3ef5c1198e7822bd875fbd719/icons/gitlab/gitlab-original.svg" alt="GitLab" width="36px">
   </a>
    <a href="https://github.com/moritzhayden/" target="_blank">
