@@ -3,8 +3,8 @@
 ### I'm a Software Engineer at [Ramsey Solutions][ramseyUrl], specializing in full-stack web development.
 
 - 🧠 I'm an Enneagram 5w4
-- 🌱 I’m currently learning Kotlin
-- 📚 I'm currently reading [Head First Kotlin][book] by Dawn Griffiths and David Griffiths
+- 🌱 I’m currently studying for the [CSSLP](https://www.isc2.org/Certifications/CSSLP) certification
+- 📚 I'm currently reading [Ask Your Developer][book] by Jeff Lawson
 - 💬 Ask me about video games, hiking, encryption, blockchain, hackathons, or the Enneagram
 
 ### Connect with me:
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-### Languages, Frameworks, and Tools I Use:
+### Languages, frameworks, and tools I use (or have used):
 
 <div align="left">
   <a href="https://kotlinlang.org/" target="_blank">
@@ -68,6 +68,9 @@
    <a href="https://github.com/moritzhayden/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/git/git-original.svg" alt="Git" width="36px">
   </a>
+  <a href="https://docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/docker/docker-plain.svg" alt="Docker" width="36px">
+  </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="36px">
   </a>
@@ -91,5 +94,5 @@ Feel free to take a look at [my resume](https://github.com/MoritzHayden/MoritzHa
 </details>
 
 <!--Config-->
-[ramseyUrl]: https://www.ramseysolutions.com/
-[book]: https://www.amazon.com/Head-First-Kotlin-Brain-Friendly-Guide/dp/1491996692
+[ramseyUrl]: https://www.ramseyinhouse.com/
+[book]: https://www.amazon.com/Ask-Your-Developer-Software-Developers/dp/0063018292
