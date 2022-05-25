@@ -80,7 +80,7 @@
 </div>
 
 ### Interested in working together?
-Feel free to take a look at [my resume](https://github.com/MoritzHayden/MoritzHayden/blob/main/Resume.pdf).
+Feel free to take a look at my resume ([PDF](https://github.com/MoritzHayden/MoritzHayden/blob/main/Resume.pdf)) ([Source](https://github.com/MoritzHayden/MoritzHayden/blob/main/Resume.tex)).
 
 ---
 
