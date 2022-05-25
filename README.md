@@ -20,7 +20,7 @@
   </a>
 </p>
 
-### Languages, frameworks, and tools I use (or have used):
+### Languages, frameworks, and tools I am familiar with:
 
 <div align="left">
   <a href="https://kotlinlang.org/" target="_blank">
@@ -79,7 +79,7 @@
   </a>
 </div>
 
-### Want to see more?
+### Interested in working together?
 Feel free to take a look at [my resume](https://github.com/MoritzHayden/MoritzHayden/blob/main/Resume.pdf).
 
 ---
