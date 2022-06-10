@@ -82,6 +82,10 @@
 ### Interested in working together?
 Feel free to take a look at my resume ([PDF](https://github.com/MoritzHayden/MoritzHayden/blob/main/Resume.pdf)) ([Source](https://github.com/MoritzHayden/MoritzHayden/blob/main/Resume.tex)).
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=share+tech&duration=6000&color=20C20E&width=200&lines=Hack+The+Planet">
+</p>
+
 ---
 
 <details open>
