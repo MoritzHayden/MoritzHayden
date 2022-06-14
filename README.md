@@ -15,6 +15,9 @@
   <a href="https://linkedin.com/in/moritzhayden" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hayden Moritz on LinkedIn" style="vertical-align:top margin:6px 4px">
   </a>
+  <a href="https://devpost.com/MoritzHayden" target="_blank">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Hayden Moritz on Devpost" style="vertical-align:top margin:6px 4px">
+  </a>
   <a href="https://haydenmoritz.com" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Hayden Moritz Online" style="vertical-align:top margin:6px 4px">
   </a>
