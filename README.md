@@ -26,7 +26,7 @@
   <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="36px">
   </a>
-  <a href="https://kotlinlang.org/" target="_blank">
+  <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/java/java-original.svg" alt="Java" width="36px">
   </a>
   <a href="https://spring.io/" target="_blank">
