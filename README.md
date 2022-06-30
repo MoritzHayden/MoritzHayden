@@ -15,9 +15,6 @@
   <a href="https://linkedin.com/in/moritzhayden" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hayden Moritz on LinkedIn" style="vertical-align:top margin:6px 4px">
   </a>
-  <a href="https://devpost.com/MoritzHayden" target="_blank">
-    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Hayden Moritz on Devpost" style="vertical-align:top margin:6px 4px">
-  </a>
   <a href="https://haydenmoritz.com" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Hayden Moritz Online" style="vertical-align:top margin:6px 4px">
   </a>
@@ -86,7 +83,7 @@
 </div>
 
 ### Interested in working together?
-Feel free to take a look at my resume ([PDF](https://github.com/MoritzHayden/MoritzHayden/blob/main/Resume.pdf)) ([Source](https://github.com/MoritzHayden/MoritzHayden/blob/main/Resume.tex)).
+Feel free to take a look at my resume ([PDF](https://haydenmoritz.com/resume)) ([Source](https://github.com/MoritzHayden/MoritzHayden/blob/main/Resume.tex)).
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=share+tech&duration=6000&color=7EFE00&width=200&lines=Hack+The+Planet">
