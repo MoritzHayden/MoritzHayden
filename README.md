@@ -12,7 +12,7 @@
   <a href="mailto:me@haydenmoritz.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me at moritz.hayden@gmail.com" style="vertical-align:top margin:6px 4px">
     </a>
-  <a href="https://linkedin.com/in/moritzhayden" target="_blank">
+  <a href="https://linkedin.com/in/haydenmoritz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hayden Moritz on LinkedIn" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="https://haydenmoritz.com" target="_blank">
