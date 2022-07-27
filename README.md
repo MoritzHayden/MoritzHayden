@@ -3,6 +3,8 @@
 <div align="center">
 
   [![wakatime](https://wakatime.com/badge/user/0b07d82c-6e21-405d-8387-34b9a09fdba6.svg)](https://wakatime.com/@0b07d82c-6e21-405d-8387-34b9a09fdba6)
+  [![haydenmoritz.com](https://img.shields.io/static/v1?label=&labelColor=5C5C5C&message=haydenmoritz.com&color=0B81C2&style=flat&logo=google-chrome&logoColor=0B81C2)](https://haydenmoritz.com)
+
 
 </div>
 
