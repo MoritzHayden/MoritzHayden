@@ -96,8 +96,11 @@ Feel free to take a look at my resume ([PDF](https://haydenmoritz.com/resume)) (
   
   <br>
   
-  | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoritzHayden&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoritzHayden&layout=compact&theme=chartreuse-dark&hide=html)](https://github.com/anuraghazra/github-readme-stats) |
-| -- | -- |
+
+
+  | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoritzHayden&theme=chartreuse-dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoritzHayden&layout=compact&theme=chartreuse-dark&hide=html)](https://github.com/anuraghazra/github-readme-stats) | [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MoritzHayden&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+| -- | -- | -- |
+
 </details>
 
 <!--Config-->
