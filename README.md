@@ -9,7 +9,6 @@
   [![Followers](https://img.shields.io/github/followers/MoritzHayden)](https://github.com/MoritzHayden)
   [![Sponsors](https://img.shields.io/github/sponsors/MoritzHayden)](https://github.com/sponsors/MoritzHayden)
 
-
 </div>
 
 ### I'm a Software Engineer at [Ramsey Solutions][ramseyUrl], specializing in full-stack web development.
