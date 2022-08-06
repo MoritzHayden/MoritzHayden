@@ -4,7 +4,6 @@
 
   [![Compile Resume](https://github.com/MoritzHayden/MoritzHayden/actions/workflows/compile-resume.yml/badge.svg?branch=main)](https://github.com/MoritzHayden/MoritzHayden/actions/workflows/compile-resume.yml)
   [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fhaydenmoritz.com)](https://haydenmoritz.com)
-  [![WakaTime](https://wakatime.com/badge/user/0b07d82c-6e21-405d-8387-34b9a09fdba6.svg)](https://wakatime.com/@0b07d82c-6e21-405d-8387-34b9a09fdba6)
   [![Profile Views](https://komarev.com/ghpvc/?username=MoritzHayden)](https://github.com/MoritzHayden)
   [![Followers](https://img.shields.io/github/followers/MoritzHayden)](https://github.com/MoritzHayden)
   [![Sponsors](https://img.shields.io/github/sponsors/MoritzHayden)](https://github.com/sponsors/MoritzHayden)
