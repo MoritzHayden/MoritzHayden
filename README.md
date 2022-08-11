@@ -51,12 +51,14 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/python/python-original.svg" alt="Python" width="36px">
   </a>
+  <!--
   <a href="https://www.ruby-lang.org/en/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/ruby/ruby-original.svg" alt="Ruby" width="36px">
   </a>
   <a href="https://rubyonrails.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/rails/rails-plain-wordmark.svg" alt="Ruby on Rails" width="36px">
   </a>
+  -->
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/react/react-original.svg" alt="React" width="36px">
   </a>
@@ -66,8 +68,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Archive/CSS3" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/css3/css3-original.svg" alt="CSS" width="36px">
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/typescript/typescript-plain.svg" alt="TypeScript" width="36px">
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg" alt="Javascript" width="36px">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg" alt="JavaScript" width="36px">
   </a>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/868a45582cbb52c4302a28ed5ded0b015a3ffae7/icons/figma/figma-original.svg" alt="Figma" width="36px">
