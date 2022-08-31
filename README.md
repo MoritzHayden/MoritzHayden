@@ -11,7 +11,7 @@
 
 </div>
 
-### I'm a Software Engineer at [Ramsey Solutions][ramseyUrl], specializing in full-stack web development.
+### I'm a Software Engineer specializing in full-stack web development.
 
 - 🧠 I'm an Enneagram 5w4
 - 🌱 I’m currently studying for the [CSSLP](https://www.isc2.org/Certifications/CSSLP) certification
@@ -98,8 +98,10 @@
   </a>
 </div>
 
-### Interested in working together?
-Feel free to take a look at my resume ([PDF](https://haydenmoritz.com/resume)) ([Source](https://github.com/MoritzHayden/MoritzHayden/blob/main/Resume.tex)).
+<!-- ### Interested in working together?
+Feel free to take a look at my resume ([PDF](https://haydenmoritz.com/resume)) ([Source](https://github.com/MoritzHayden/MoritzHayden/blob/main/Resume.tex)). -->
+
+</br>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=share+tech&duration=6000&color=7EFE00&width=200&lines=Hack+The+Planet">
