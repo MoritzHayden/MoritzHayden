@@ -98,7 +98,7 @@
 </div>
 
 <!-- ### Interested in working together?
-Feel free to take a look at my resume ([PDF](https://haydenmoritz.com/resume)) ([Source](https://github.com/MoritzHayden/MoritzHayden/blob/main/Resume.tex)). -->
+Feel free to take a look at my resume ([PDF](https://haydenmoritz.com/resume)) ([Source](https://github.com/MoritzHayden/Resume/blob/main/Resume.tex)). -->
 
 </br>
 
