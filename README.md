@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fhaydenmoritz.com)](https://haydenmoritz.com)
+  [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fhmoritz.dev)](https://hmoritz.dev)
   [![wakatime](https://wakatime.com/badge/user/0b07d82c-6e21-405d-8387-34b9a09fdba6.svg)](https://wakatime.com/@0b07d82c-6e21-405d-8387-34b9a09fdba6)
   [![Profile Views](https://komarev.com/ghpvc/?username=MoritzHayden)](https://github.com/MoritzHayden)
   [![Followers](https://img.shields.io/github/followers/MoritzHayden)](https://github.com/MoritzHayden)
@@ -19,13 +19,13 @@
 
 ### Connect with me:
 <p align="left">	<p align="left">
-  <a href="mailto:me@haydenmoritz.com" target="_blank">
+  <a href="mailto:me@hmoritz.dev" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me at moritz.hayden@gmail.com" style="vertical-align:top margin:6px 4px">
     </a>
   <a href="https://linkedin.com/in/haydenmoritz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hayden Moritz on LinkedIn" style="vertical-align:top margin:6px 4px">
   </a>
-  <a href="https://haydenmoritz.com" target="_blank">
+  <a href="https://hmoritz.dev" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Hayden Moritz Online" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
@@ -98,7 +98,7 @@
 </div>
 
 <!-- ### Interested in working together?
-Feel free to take a look at my resume ([PDF](https://haydenmoritz.com/resume)) ([Source](https://github.com/MoritzHayden/Resume/blob/main/Resume.tex)). -->
+Feel free to take a look at my resume ([PDF](https://hmoritz.dev/resume)) ([Source](https://github.com/MoritzHayden/Resume/blob/main/Resume.tex)). -->
 
 </br>
 
