@@ -91,7 +91,7 @@
 </br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=share+tech&duration=6000&color=7EFE00&width=200&lines=Hack+The+Planet">
+  <img src="typing-bio.svg">
 </p>
 
 ---
