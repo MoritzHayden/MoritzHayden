@@ -108,4 +108,4 @@
 
 <!--Config-->
 [certification]: https://www.isc2.org/Certifications/CSSLP
-[book]: https://www.amazon.com/Ask-Your-Developer-Software-Developers/dp/0063018292
+[book]: https://a.co/d/1FqnzIP
