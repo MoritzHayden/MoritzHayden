@@ -6,15 +6,14 @@
   [![wakatime](https://wakatime.com/badge/user/0b07d82c-6e21-405d-8387-34b9a09fdba6.svg)](https://wakatime.com/@0b07d82c-6e21-405d-8387-34b9a09fdba6)
   [![Profile Views](https://komarev.com/ghpvc/?username=MoritzHayden)](https://github.com/MoritzHayden)
   [![Followers](https://img.shields.io/github/followers/MoritzHayden)](https://github.com/MoritzHayden)
-  [![Sponsors](https://img.shields.io/github/sponsors/MoritzHayden)](https://github.com/sponsors/MoritzHayden)
 
 </div>
 
 ### I'm a Software Engineer specializing in full-stack web development.
 
 - 🧠 I'm an Enneagram 5w4
-- 🌱 I’m currently studying for the [CSSLP](https://www.isc2.org/Certifications/CSSLP) certification
-- 📚 I'm currently reading [Ask Your Developer][book] by Jeff Lawson
+- 🌱 I’m currently studying for the [CSSLP][certification] certification
+- 📚 I'm currently reading [The Obstacle Is the Way][book] by Ryan Holiday
 - 💬 Ask me about video games, hiking, encryption, blockchain, hackathons, or the Enneagram
 
 ### Connect with me:
@@ -30,7 +29,7 @@
   </a>
 </p>
 
-### Languages, frameworks, and tools I am familiar with:
+### Languages, frameworks, and tools I use:
 
 <div align="left">
   <a href="https://kotlinlang.org/" target="_blank">
@@ -51,14 +50,6 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/python/python-original.svg" alt="Python" width="36px">
   </a>
-  <!--
-  <a href="https://www.ruby-lang.org/en/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/ruby/ruby-original.svg" alt="Ruby" width="36px">
-  </a>
-  <a href="https://rubyonrails.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/rails/rails-plain-wordmark.svg" alt="Ruby on Rails" width="36px">
-  </a>
-  -->
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/react/react-original.svg" alt="React" width="36px">
   </a>
@@ -97,9 +88,6 @@
   </a>
 </div>
 
-<!-- ### Interested in working together?
-Feel free to take a look at my resume ([PDF](https://hmoritz.dev/resume)) ([Source](https://github.com/MoritzHayden/Resume/blob/main/Resume.tex)). -->
-
 </br>
 
 <p align="center">
@@ -110,14 +98,14 @@ Feel free to take a look at my resume ([PDF](https://hmoritz.dev/resume)) ([Sour
 
 <details open>
   <summary>:zap: GitHub Stats</summary>
-  
+
   <br>
-  
+
   | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoritzHayden&theme=chartreuse-dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoritzHayden&layout=compact&theme=chartreuse-dark&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 | -- | -- |
 
 </details>
 
 <!--Config-->
-[ramseyUrl]: https://www.ramseyinhouse.com/
+[certification]: https://www.isc2.org/Certifications/CSSLP
 [book]: https://www.amazon.com/Ask-Your-Developer-Software-Developers/dp/0063018292
