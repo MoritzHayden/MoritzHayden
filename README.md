@@ -1,4 +1,4 @@
-## Hello, my name is Hayden Moritz 👋
+ ## Hey! My name is Hayden 👋
 
 <div align="center">
 
@@ -13,8 +13,8 @@
 
 - 🧠 I'm an Enneagram 5w4
 - 🌱 I’m currently studying for the [CSSLP][certification] certification
-- 📚 I'm currently reading [The Obstacle Is the Way][book] by Ryan Holiday
-- 💬 Ask me about video games, hiking, encryption, blockchain, hackathons, or the Enneagram
+- 📚 I'm currently reading [The Psychology of Money][book] by Morgan Housel
+- 💬 Ask me about video games, watches, keyboards, homelabs, and hackathons
 
 ### Connect with me:
 <p align="left">	<p align="left">
@@ -117,4 +117,4 @@
 
 <!--Config-->
 [certification]: https://www.isc2.org/Certifications/CSSLP
-[book]: https://a.co/d/1FqnzIP
+[book]: https://www.goodreads.com/book/show/41881472-the-psychology-of-money
