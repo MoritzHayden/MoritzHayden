@@ -5,7 +5,7 @@
   [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fhmoritz.dev)](https://hmoritz.dev)
   [![wakatime](https://wakatime.com/badge/user/0b07d82c-6e21-405d-8387-34b9a09fdba6.svg)](https://wakatime.com/@0b07d82c-6e21-405d-8387-34b9a09fdba6)
   [![Profile Views](https://komarev.com/ghpvc/?username=MoritzHayden)](https://github.com/MoritzHayden)
-  [![Followers](https://img.shields.io/github/followers/MoritzHayden)](https://github.com/MoritzHayden?tab=followers)
+  [![Followers](https://img.shields.io/github/followers/MoritzHayden?style=flat&label=Followers)](https://github.com/MoritzHayden?tab=followers)
 
 </div>
 
